@@ -1,6 +1,6 @@
 # ecommerce_flutter
 
-Ecommerce application foe fashion
+Ecommerce application for fashion
 
 ## Getting Started
 
